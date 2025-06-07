@@ -51,7 +51,7 @@ Mastering_Python_Course/
 
 ### 📚 Lessons
 
-- [`01. (001 – 005) Introduction and Basics.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/main/Lessons/01.%20(001%20%E2%80%93%20005)%20%20Introduction%20and%20Basics.py)
+- [`01. (001 – 005) Introduction and Basics.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/653e48764d4ad6c39ee03060cb2cd1562f421c4e/01.%20(1%E2%80%935)%20Introduction%20and%20Basics.py)
 - [`02. (006 – 008) Data Types and Variables.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/a893bd8bd1eb71a4691141e7a4bbb5a866c59663/02.%20(6%E2%80%938)%20Data%20Types%20and%20Variables.py)
 - [`03. (009 – 011) Strings_Escape_Concat.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/main/Lessons/03.%20(009%20%E2%80%93%20011)%20%20Strings_Escape_Concat.py)
 - [`04. (012 – 016) Strings_Indexing_Methods.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/main/Lessons/04.%20(012%20%E2%80%93%20016)%20%20Strings_Indexing_Methods.py)
