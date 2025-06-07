@@ -68,7 +68,7 @@ Mastering_Python_Course/
 - [`15. (047 – 050) While_Loops.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/653e48764d4ad6c39ee03060cb2cd1562f421c4e/15.%20(47%E2%80%9350)%20While_Loops.py)
 - [`16. (051 – 055) For_Loops_Advanced.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/653e48764d4ad6c39ee03060cb2cd1562f421c4e/16.%20(51%E2%80%9355)%20For_Loops_Advanced.py)
 - [`17. (056 – 061) Functions_Basics.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/653e48764d4ad6c39ee03060cb2cd1562f421c4e/17.%20(56%E2%80%9361)%20Functions_Basics.py)
-- [`18. (062 – 064) Functions_Advanced.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/main/Lessons/18.%20(062%20%E2%80%93%20064)%20%20Functions_Advanced.py)
+- [`18. (062 – 064) Functions_Advanced.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/f928631f92f3fa86ee852b377b102e8f8d9c93a8/18.%20(62%E2%80%9364)%20Functions_Advanced.py)
 - [`19. (065 – 068) Files_Handling.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/653e48764d4ad6c39ee03060cb2cd1562f421c4e/19.%20(65%E2%80%9368)%20Files_Handling.py)
 - [`20. (069 – 075) Built_In_Functions.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/main/Lessons/20.%20(069%20%E2%80%93%20075)%20%20Built_In_Functions.py)
 - [`21. (076 – 078) Modules_and_Packages.py`](https://github.com/Mohamed-Khalil001/Mastering-Python-Quantitative-Analysis/blob/main/Lessons/21.%20(076%20%E2%80%93%20078)%20%20Modules_and_Packages.py)
