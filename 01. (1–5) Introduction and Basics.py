@@ -1,70 +1,92 @@
 # Mastering Python - Lessons 001 to 005
-# Topic: Introduction to Python, Syntax, Comments, and Basic Data Types
-# This code covers the core concepts from Lessons 1 to 5 of the "Mastering Python" course by Elzero Web School:
-# - Lesson 001: Introduction to Python and its importance
-# - Lesson 002: What you need to learn Python (tools and setup)
-# - Lesson 003: Basic syntax and writing your first app
-# - Lesson 004: Using comments to document code
-# - Lesson 005: Introduction to basic data types in Python
+# Topic: Introduction and Basics
+# This code covers key concepts from Lessons 001 to 005 of the "Mastering Python" course by Elzero Web School:
+# - Lesson 001: Introduction to Python
+# - Lesson 002: First Python program
+# - Lesson 003: Comments
+# - Lesson 004: Reserved words
+# - Lesson 005: Print function basics
 
-# Lesson 001 - Introduction And What's Python
-# Python is a versatile, easy-to-learn programming language used for web development, data analysis, AI, and more.
-print("Welcome to Mastering Python!")
-print("This is my first project")
-print("Love quant")
-print("")
-
-# Lesson 002 - What I Need To Learn?
-# To learn Python, you need:
-# 1. Python installed (download from python.org)
-# 2. An IDE or editor (e.g., VS Code, PyCharm)
-# 3. Practice and patience!
-print("What I Need To Learn Python:")
-print("1. Install Python from python.org")
-print("2. Use an IDE like VS Code or PyCharm")
-print("3. Practice coding daily")
-print("")
-
-# Lesson 003 - Syntax And Your First App
-# Python uses simple syntax: no semicolons, indentation matters!
-# Let's create a basic app to say hello
-name = "Mohamed"
-print("Hello, " + name + "! Welcome to your first Python app!")
-print("Python syntax is simple and readable")
+# # # _________________________________Lesson 001 _______________________
+# # # --Introduction => What is Python --
+# # # ----------------------------------------------
+# # # Python is a high-level, interpreted programming language
+# # # Created by Guido van Rossum, first released in 1991
+# # # Used for web development, data science, automation, and more
+# # # Easy to read and write due to simple syntax
+# # # ----------------------------------------------
+import keyword
+print("Lesson 001 - Introduction to Python:")
+print("Python is a versatile programming language")
+print("Created by Guido van Rossum in 1991")
+print("Applications: Web, Data Science, Automation")
 print("")
 print("------------------------------------")
 print("")
 
-# Lesson 004 - Comments And How To Use It
-# Comments explain code; single-line comments use '#'
-# Multi-line comments (docstrings) use triple quotes
-"""
-I am excited to learn Python!
-Use multi-line comments for documentation or notes.
-"""
-print("Comments help explain code")
-print("# is for single-line comments")
-print('""" or \'\'\' is for multi-line comments')
+# # # _________________________________Lesson 002 _______________________
+# # # --First Program => Hello World --
+# # # ----------------------------------------------
+# # # Write your first Python program
+# # # Use print() to display output
+# # # ----------------------------------------------
+print("Lesson 002 - First Python Program:")
+print("Hello, World!")
 print("")
 print("------------------------------------")
 print("")
 
-# Lesson 005 - Dealing With Data in Python
-# Python has several basic data types
-print("String:", "hello")  # String (str) - text data
-print("Type of 'hello':", type("hello"))  # Check type with type()
-print("Integer:", 10)  # Integer (int) - whole numbers
-print("Type of 10:", type(10))  # Check type
-print("Float:", 10.1)  # Float - decimal numbers
-print("Type of 10.1:", type(10.1))  # Check type
+# # # _________________________________Lesson 003 _______________________
+# # # --Comments => Single and Multi-line --
+# # # ----------------------------------------------
+# # # Comments explain code, ignored by interpreter
+# # # Single-line: # Comment
+# # # Multi-line: """ Comment """
+# # # ----------------------------------------------
+print("Lesson 003 - Comments:")
+# This is a single-line comment
+print("Code with comments:")
+"""
+This is a multi-line comment
+It can span multiple lines
+"""
+print("Comments are not executed")
+print("")
+print("------------------------------------")
+print("")
+
+# # # _________________________________Lesson 004 _______________________
+# # # -- Reserved Words --
+# # # Reserved words are keywords with special meaning in Python
+# # # Examples: if, for, while, print, return
+# # # # ----------------------------------------------
+print("Lesson 004 - Reserved Words:")
+print("Reserved words in Python:")
+print(keyword.kwlist)
+print("Example: 'if' is reserved, can't be used as variable name")
+# if = 5  # This will raise a syntax error
+print("")
+print("------------------------------------")
+print("")
+
+# # # _________________________________Lesson 005 _______________________
+# # # --Print => Basics --
+# # # ----------------------------------------------
+# # # print() outputs text to the console
+# # # Can use sep and end parameters
+# # # ----------------------------------------------
+print("Lesson 005 - Print Function Basics:")
+print("Hello", "Python", sep=" - ", end="!")
+print(" Next line")
+print("Multiple arguments:", 1, 2, 3)
 print("")
 print("------------------------------------")
 print("")
 
 # Summary of Lessons 001 to 005
 print("Summary:")
-print("1 - Learned about Python and its uses")
-print("2 - Understood tools and setup needed for learning")
-print("3 - Wrote a simple app with basic syntax")
-print("4 - Used single-line and multi-line comments")
-print("5 - Explored basic data types: string, integer, float")
+print("1 - Introduced Python and its applications")
+print("2 - Wrote first Hello World program")
+print("3 - Learned single and multi-line comments")
+print("4 - Explored reserved words")
+print("5 - Used print() with sep and end parameters")
